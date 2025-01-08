@@ -37,7 +37,4 @@ The spike in training loss at the last epoch suggests potential overfitting or i
 
 ## Usage
 To use the model for sentiment analysis:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Gsingh225/Sentiment-analysis.git
-   cd Sentiment-analysis
+Simply download the notebook, run it to train the model (takes about 2 mins on a free colab gpu) and navigate to the last cell to use. Feel free to modify the code or use a custom dataset.
